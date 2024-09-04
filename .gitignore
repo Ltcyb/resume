@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.out
+*.gz
+
+.history
+.DS_Store
+
+resume.pdf
